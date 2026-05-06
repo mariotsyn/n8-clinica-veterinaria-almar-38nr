@@ -1,0 +1,112 @@
+{
+  "business": {
+    "name": "Clínica Veterinaria ALMAR",
+    "tagline": "Cuidado experto y cercano para tu mejor amigo.",
+    "description": "En Clínica Veterinaria ALMAR ofrecemos un servicio integral para el cuidado de tu mascota en La Vila Joiosa. Nuestro equipo combina la pasión por los animales con la medicina más avanzada para garantizar su bienestar.",
+    "phone": "",
+    "address": "C. Barranquet, 7, 03570 La Vila Joiosa, Alicante, España",
+    "email": "info@almarveterinaria.es",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "hours": [
+      "Monday: 10:00 AM – 1:30 PM, 5:00 – 8:00 PM",
+      "Tuesday: 10:00 AM – 1:30 PM, 5:00 – 8:00 PM",
+      "Wednesday: 10:00 AM – 1:30 PM, 5:00 – 8:00 PM",
+      "Thursday: 10:00 AM – 1:30 PM, 5:00 – 8:00 PM",
+      "Friday: 10:00 AM – 1:30 PM, 5:00 – 8:00 PM",
+      "Saturday: 10:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ]
+  },
+  "theme": {
+    "primary": "#2A9D8F",
+    "secondary": "#2C3E50",
+    "accent": "#F4A261",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "La salud de tu mascota, nuestra máxima prioridad.",
+    "subheadline": "Ofrecemos medicina preventiva, diagnósticos avanzados y un trato cariñoso para garantizar el bienestar de tu compañero fiel en La Vila Joiosa.",
+    "cta1": {
+      "text": "Pedir Cita",
+      "href": "#contact"
+    },
+    "cta2": {
+      "text": "Ver Servicios",
+      "href": "#services"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80"
+  },
+  "services": [
+    {
+      "icon": "🩺",
+      "title": "Medicina Preventiva",
+      "description": "Protegemos su salud con planes de vacunación, desparasitación y chequeos anuales. Prevenir es la mejor forma de cuidar."
+    },
+    {
+      "icon": "🔬",
+      "title": "Diagnóstico Avanzado",
+      "description": "Contamos con tecnología de radiografía y ecografía para obtener diagnósticos precisos y rápidos para su tratamiento."
+    },
+    {
+      "icon": "⚕️",
+      "title": "Cirugía General",
+      "description": "Realizamos intervenciones quirúrgicas con la máxima seguridad y un cuidado postoperatorio dedicado. Manos expertas para momentos delicados."
+    },
+    {
+      "icon": "🚑",
+      "title": "Consultas y Urgencias",
+      "description": "Atendemos consultas generales y urgencias dentro de nuestro horario. Estamos aquí para ayudarte cuando más nos necesites."
+    }
+  ],
+  "about": {
+    "title": "Comprometidos con el Bienestar de Tu Mascota",
+    "text": "En Clínica Veterinaria ALMAR, entendemos que tu mascota es un miembro más de la familia. Nuestro objetivo es combinar la medicina veterinaria de alta calidad con un trato cercano y empático, creando un ambiente de confianza tanto para los animales como para sus dueños.\n\nNuestro equipo está formado por profesionales apasionados por la salud animal, en constante formación para aplicar los tratamientos más avanzados. Con una valoración de 4.6 estrellas, nos enorgullece ser una referencia de confianza para el cuidado de las mascotas en La Vila Joiosa.",
+    "imageUrl": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80"
+  },
+  "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80",
+      "alt": "Nuestro equipo de profesionales veterinarios"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+      "alt": "Colaboración y dedicación en cada caso"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+      "alt": "Instalaciones modernas y acogedoras"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80",
+      "alt": "Clínica Veterinaria ALMAR en La Vila Joiosa"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Laura Gómez",
+      "stars": 5,
+      "text": "Un trato excepcional tanto para mi perro como para mí. Se nota la vocación y el cariño que ponen en su trabajo. ¡Totalmente recomendados!"
+    },
+    {
+      "name": "Javier Pérez",
+      "stars": 5,
+      "text": "Profesionales muy competentes. Resolvieron el problema de mi gata con rapidez y eficacia. Me dieron mucha tranquilidad."
+    },
+    {
+      "name": "Carmen Sánchez",
+      "stars": 4,
+      "text": "Buena atención y seguimiento. A veces hay que esperar un poco, pero merece la pena por la calidad del servicio."
+    }
+  ],
+  "contact": {
+    "title": "Pide Cita para Tu Mascota Hoy Mismo",
+    "subtitle": "Contacta con nosotros para resolver tus dudas o programar una visita. Te esperamos en C. Barranquet, 7.",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "Clínica Veterinaria ALMAR C. Barranquet, 7, 03570 La Vila Joiosa, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clínica Veterinaria ALMAR"
+  }
+}
